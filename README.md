@@ -22,11 +22,7 @@ pip install owlready2
 ![](https://github.com/dikshant293/dikshant_repo/raw/master/pics/p2.png)
 
 - Click on the three dots beside the DBMS name to open Settings file
-- Paste the following line in the file and apply changes
-```sh
-apoc.export.file.enabled=true
-apoc.import.file.use_neo4j_config=false
-```
+
 ![](https://github.com/dikshant293/dikshant_repo/raw/master/pics/p3.png)
 
 - Paste the following line in the file and apply changes
